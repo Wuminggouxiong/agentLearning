@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 环境变量和密钥
+.env
+*.key
+*.pem
+
+# PyCharm
+.idea/
+*.iml
+
+# 系统
+.DS_Store
+Thumbs.db
+EOFcd /e/Study/agentLearning
+
+cat > .gitignore <<'EOF'
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 环境变量和密钥
+.env
+*.key
+*.pem
+
+# PyCharm
+.idea/
+*.iml
+
+# 系统
+.DS_Store
+Thumbs.db
