@@ -1,5 +1,5 @@
-from Prompt.ToTOriginal import Tree_of_Thought
-from Prompt.ToTOriginal.Tree_of_Thought import tree_of_thought
+from Prompt.Tree_of_Thought import Tree_of_Thought
+from Prompt.Tree_of_Thought.Tree_of_Thought import tree_of_thought
 
 
 def autoTry(problem:str)->int:
